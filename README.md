@@ -1,0 +1,2 @@
+# ClassBasedViewProject
+ Django CBV
